@@ -20,9 +20,11 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" style="border-radius: 50%;" />
 </p>
+
 
 ## Conecte-se comigo
 <p align="center">
